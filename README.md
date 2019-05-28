@@ -1,6 +1,6 @@
 # Response ⚡
 
-Dealing with incidents can be stressful. On top of dealing with the issue at hand, responders are often responsible for handling comms, both internal and external, reporting, and coordinating the efforts of other engineers. To reduce the pressure and cognitive burden on its engineers, Monzo built Response to help coordinate and report incidents.
+Dealing with incidents can be stressful. On top of dealing with the issue at hand, responders are often responsible for handling comms, both internal and external, reporting, and coordinating the efforts of other engineers. To reduce the pressure and cognitive burden on its engineers, Monzo built Response to help coordinate and report incidents..
 
 The tool integrates deeply with Slack and revolves around the following ideals:
 
